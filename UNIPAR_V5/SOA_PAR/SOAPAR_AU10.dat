@@ -1,4 +1,4 @@
-/// This is for the parameters to predict SOA formation from the photooxidation of toluene							
+/// This is for the parameters to predict SOA formation from the photooxidation of C10
 /// This file inlcludes the parameter for each lumping species at the four different conditions (LNOX-fresh, LNOx-aged, HNOx-fresh, HNOx-aged)                                    							
 /// This file includes the molecular properties for each lumping species (MW: molecular weight, O:C: oxygen to carbon ratio, HB: hydrogen bonding  Zhou et al., (2018))                                    							
 /// HB is calculated based on the functionality (OH(OOH)=1; COOH(COOOH) =1.6)                                    							
