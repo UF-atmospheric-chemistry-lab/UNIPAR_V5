@@ -1,4 +1,8 @@
 !:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+! SOA_AE3.f90 copyrightable work product created by faculty at the University of Florida. 
+!
+! © 2024 the University of Florida Research Foundation, Inc. All commercial rights reserved. All publications and presentations referencing the UF works should include
+!   the University of Florida Research Foundation, Inc. as the copyright holder and reference the UF creators.
 
       module SOA_AE3
 
